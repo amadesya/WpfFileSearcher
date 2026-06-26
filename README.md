@@ -13,7 +13,7 @@
 
 ## Интерфейс приложения
 
-![Скриншот интерфейса] <img width="614" height="556" alt="image" src="https://github.com/user-attachments/assets/55d3bc8f-e863-4d11-a50b-0f979b74166c" />
+<img width="614" height="556" alt="image" src="https://github.com/user-attachments/assets/55d3bc8f-e863-4d11-a50b-0f979b74166c" />
 
 ## Стек технологий
 
